@@ -12,7 +12,7 @@ Make sure you have the following libraries installed:
 
 You can install these libraries using pip:
 ```bash
-pip install numpy pandas matplotlib seaborn
+pip install numpy
 ```
 ```bash
 pip install pandas
