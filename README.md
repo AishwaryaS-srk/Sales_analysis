@@ -14,6 +14,16 @@ You can install these libraries using pip:
 ```bash
 pip install numpy pandas matplotlib seaborn
 ```
+```bash
+pip install pandas
+```
+```bash
+pip install matplotlib
+```
+```bash
+pip install seaborn
+```
+
 
 ## Steps
 
